@@ -1,0 +1,10 @@
+.right {
+  text-align: center;
+  float: none !important; }
+  .right li {
+    float: none;
+    display: inline-block; }
+    .right li a {
+      color: black; }
+
+/*# sourceMappingURL=style.css.map */
